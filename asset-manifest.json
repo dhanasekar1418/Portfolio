@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.21d4cf74.css",
+    "main.js": "/Portfolio/static/js/main.ec9f3c31.js",
+    "static/media/kickstart.png": "/Portfolio/static/media/kickstart.e27936ec3fc35c1b6808.png",
+    "static/media/project.jpeg": "/Portfolio/static/media/project.7063238598429f9a1f79.jpeg",
+    "static/media/DHANA SEKAR V 22EE011.pdf": "/Portfolio/static/media/DHANA SEKAR V 22EE011.9ac2024978d56d7e0997.pdf",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/lift.png": "/Portfolio/static/media/lift.37d5e75bcb0994102a34.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pg.png": "/Portfolio/static/media/pg.0d0d8ff689849d3d367c.png",
+    "static/media/sLogo.png": "/Portfolio/static/media/sLogo.fbf5685094ecde30a712.png",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.21d4cf74.css.map": "/Portfolio/static/css/main.21d4cf74.css.map",
+    "main.ec9f3c31.js.map": "/Portfolio/static/js/main.ec9f3c31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d4cf74.css",
+    "static/js/main.ec9f3c31.js"
+  ]
+}
